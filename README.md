@@ -222,8 +222,8 @@ conda activate legalx
 pip install -r req.txt
 
 # 4. Set up environment variables
-cp .env.example .env
-# Edit .env and add your GROQ_API_KEY
+# Create .env file and add your key
+echo "GROQ_API_KEY=your_key_here" > .env
 
 # 5. Run the app (pipeline runs automatically on first launch)
 python run.py
