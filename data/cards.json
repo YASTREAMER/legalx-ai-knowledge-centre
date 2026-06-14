@@ -1,0 +1,151 @@
+{
+  "pocso_act": {
+    "topic_key": "pocso_act",
+    "display_name": "POCSO Act",
+    "source_url": "https://en.wikipedia.org/wiki/Protection_of_Children_from_Sexual_Offences_Act,_2012",
+    "card_description": "Law to protect children from sexual abuse.",
+    "summary": "The POCSO Act is a law in India that aims to prevent and prosecute cases of child sexual abuse. It provides a legal framework for protecting children from sexual assault, harassment, and pornography. The law ensures a child-friendly process for reporting, recording evidence, and investigation, and provides for speedy trials through special courts. The Act is gender-neutral and applies to both children and the accused. It also makes abetment of child sexual abuse an offence and provides for stringent punishments, including life imprisonment and the death penalty in some cases.",
+    "key_rights": [
+      "Right to protection from sexual abuse",
+      "Right to a child-friendly process",
+      "Right to file a complaint at any age",
+      "Right to protection against intimidation"
+    ],
+    "important_provisions": [
+      "Penetrative and non-penetrative sexual assault are recognized as offences",
+      "Sexual harassment and child pornography are criminalized",
+      "Abetment of child sexual abuse is an offence",
+      "Child-friendly process for reporting and investigation"
+    ],
+    "penalties": [
+      "Minimum punishment of 10 years for penetrative assault",
+      "Life imprisonment for aggravated penetrative assault",
+      "Death penalty for aggravated penetrative assault in some cases",
+      "Punishment for abetment of child sexual abuse"
+    ],
+    "who_can_benefit": [
+      "Child victims of sexual abuse",
+      "Male and female children",
+      "Children from all backgrounds and ages"
+    ]
+  },
+  "consumer_protection_act": {
+    "topic_key": "consumer_protection_act",
+    "display_name": "Consumer Protection Act",
+    "source_url": "https://en.wikipedia.org/wiki/Consumer_Protection_Act,_2019",
+    "card_description": "Law protecting consumer rights in India.",
+    "summary": "The Consumer Protection Act, 2019 is a law that aims to protect the rights of consumers in India. It was introduced to replace the old Consumer Protection Act, 1986, and provides more power to customers by promoting transparency. The Act focuses on giving customers protection against false advertisements, and makes it mandatory for e-commerce entities to display the country of origin of their products. It also establishes various authorities and commissions to handle consumer protection cases and provide redressal to consumers. The Act defines the rights of consumers, including the right to be protected against hazardous goods and services, the right to be informed about the quality and price of goods and services, and the right to seek redressal against unfair trade practices.",
+    "key_rights": [
+      "Right to be protected against hazardous goods and services",
+      "Right to be informed about the quality and price of goods and services",
+      "Right to access a variety of goods and services at competitive prices",
+      "Right to seek redressal against unfair trade practices"
+    ],
+    "important_provisions": [
+      "E-commerce entities must display the country of origin of their products",
+      "Establishment of the Central Consumer Protection Authority to regulate consumer protection",
+      "Creation of Consumer Disputes Redressal Commissions to handle consumer complaints",
+      "Establishment of Consumer Protection Councils to advise the government on consumer protection issues"
+    ],
+    "penalties": [
+      "Penalty for false or misleading advertisements",
+      "Penalty for non-compliance with the provisions of the Act",
+      "Penalty for unfair trade practices"
+    ],
+    "who_can_benefit": [
+      "Individual consumers",
+      "E-commerce businesses",
+      "Small scale industries",
+      "All citizens of India"
+    ]
+  },
+  "cyber_crime_laws": {
+    "topic_key": "cyber_crime_laws",
+    "display_name": "Cyber Crime Laws",
+    "source_url": "https://en.wikipedia.org/wiki/Information_Technology_Act,_2000",
+    "card_description": "Cyber Crime Laws protect India's digital space.",
+    "summary": "The Information Technology Act, 2000 is India's primary law dealing with cybercrime, financial data safety, and electronic commerce. It provides a legal framework for electronic governance, recognizes electronic records and digital signatures, and prescribes penalties for cyber crimes. The law applies to the whole of India and extends to persons of other nationalities if a crime involves a computer or network located in India. The Act has undergone several amendments, including the introduction of new offences and provisions addressing issues like pornography, child porn, and cyber terrorism.",
+    "key_rights": [
+      "Right to electronic records and digital signatures",
+      "Right to protection of personal data",
+      "Right to report cyber crimes",
+      "Right to seek compensation for cyber crimes"
+    ],
+    "important_provisions": [
+      "Recognition of electronic records and digital signatures",
+      "Establishment of a Controller of Certifying Authorities",
+      "Formation of a Cyber Appellate Tribunal to resolve disputes",
+      "Amendments to the Indian Penal Code, Indian Evidence Act, and other laws"
+    ],
+    "penalties": [
+      "Imprisonment for hacking and cyber crimes",
+      "Fines for sending offensive messages or spam",
+      "Penalties for child porn, cyber terrorism, and voyeurism",
+      "Compensation for victims of cyber crimes"
+    ],
+    "who_can_benefit": [
+      "Individuals using digital services",
+      "Businesses operating online",
+      "Victims of cyber crimes",
+      "Law enforcement agencies"
+    ]
+  },
+  "rti_act": {
+    "topic_key": "rti_act",
+    "display_name": "Right to Information Act",
+    "source_url": "https://en.wikipedia.org/wiki/Right_to_Information_Act,_2005",
+    "card_description": "Law about citizens' right to access information from public authorities.",
+    "summary": "The Right to Information Act, 2005 allows Indian citizens to request information from public authorities, which must reply within 30 days. The Act promotes transparency and accountability in government. It requires public authorities to computerize records and proactively publish certain information. The Act has been useful in promoting citizen's right to information, but its implementation has been counteracted by other laws. The Act applies to all constitutional authorities, including executive, legislature, and judiciary, and also covers bodies owned or controlled by the government.",
+    "key_rights": [
+      "Right to request information from public authorities",
+      "Right to get a response within 30 days",
+      "Right to access computerized records",
+      "Right to access proactively published information"
+    ],
+    "important_provisions": [
+      "Public authorities must reply to information requests within 30 days",
+      "Public authorities must computerize their records",
+      "Public authorities must proactively publish certain categories of information",
+      "Information must be provided within 48 hours in matters involving life and liberty"
+    ],
+    "penalties": [
+      "Penalty for not providing information within the specified time",
+      "Penalty for providing false information",
+      "Penalty for destroying or tampering with records"
+    ],
+    "who_can_benefit": [
+      "Indian citizens",
+      "Media personnel",
+      "Researchers and scholars",
+      "Activists and whistleblowers"
+    ]
+  },
+  "gst_registration": {
+    "topic_key": "gst_registration",
+    "display_name": "GST Registration",
+    "source_url": "https://en.wikipedia.org/wiki/Goods_and_Services_Tax_(India)",
+    "card_description": "GST Registration is a tax law in India.",
+    "summary": "The Goods and Services Tax (GST) is a comprehensive, multistage, and destination-based tax introduced in India on 1 July 2017. It replaced many indirect taxes like VAT, service tax, and central excise duty, simplifying the taxation of goods and services. The tax is levied at every stage of production but is refunded to all parties except the final consumer. The GST Council, consisting of central and state finance ministers, governs the tax rates, rules, and regulations. The GST has undergone changes, including a reduction in tax rates on several goods to stimulate consumption and simplify the tax system.",
+    "key_rights": [
+      "Right to register for GST",
+      "Right to claim input tax credit",
+      "Right to pay tax at a single rate",
+      "Right to access the GST Network"
+    ],
+    "important_provisions": [
+      "GST is a destination-based tax, collected at the point of consumption",
+      "GST has multiple tax slabs, including 0%, 5%, and 18%",
+      "Certain goods like petroleum products and alcoholic beverages are excluded from GST"
+    ],
+    "penalties": [
+      "Failure to register for GST can result in fines and penalties",
+      "Non-payment of GST can lead to interest and penalties",
+      "Incorrect GST returns can result in fines and audits"
+    ],
+    "who_can_benefit": [
+      "Businesses with an annual turnover of over 40 lakhs",
+      "Service providers",
+      "Manufacturers and traders"
+    ]
+  }
+}

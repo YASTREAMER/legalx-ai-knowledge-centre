@@ -1,0 +1,32 @@
+{
+  "pocso_act": {
+    "status": "success",
+    "display_name": "POCSO Act",
+    "words": 1543,
+    "file": "data/raw/pocso_act.txt"
+  },
+  "consumer_protection_act": {
+    "status": "success",
+    "display_name": "Consumer Protection Act",
+    "words": 533,
+    "file": "data/raw/consumer_protection_act.txt"
+  },
+  "cyber_crime_laws": {
+    "status": "success",
+    "display_name": "Cyber Crime Laws",
+    "words": 2392,
+    "file": "data/raw/cyber_crime_laws.txt"
+  },
+  "rti_act": {
+    "status": "success",
+    "display_name": "Right to Information Act",
+    "words": 2310,
+    "file": "data/raw/rti_act.txt"
+  },
+  "gst_registration": {
+    "status": "success",
+    "display_name": "GST Registration",
+    "words": 4988,
+    "file": "data/raw/gst_registration.txt"
+  }
+}
