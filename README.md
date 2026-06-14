@@ -113,7 +113,7 @@ LegalX AI Knowledge Centre makes Indian law accessible to ordinary citizens. The
 | **Audio (TTS)** | gTTS (Google Text-to-Speech) |
 | **Audio (STT)** | Groq Whisper |
 | **Web Scraping** | requests, BeautifulSoup4 |
-| **Language** | Python 3.11 |
+| **Language** | Python 3.14 |
 
 ---
 
@@ -203,7 +203,7 @@ pip install -r req.txt
 ## 🔧 Setup Instructions
 
 ### Prerequisites
-- Python 3.11+
+- Python 3.14+
 - Conda (recommended)
 - Groq API key — get one free at [console.groq.com](https://console.groq.com)
 
@@ -215,7 +215,7 @@ git clone https://github.com/YASTREAMER/legalx-ai-knowledge-centre.git
 cd legalx-ai-knowledge-centre
 
 # 2. Create conda environment
-conda create -n legalx python=3.11
+conda create -n legalx python=3.14
 conda activate legalx
 
 # 3. Install dependencies
