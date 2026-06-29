@@ -1,5 +1,4 @@
-# ⚖️ LegalX AI Knowledge Centre
-
+# ⚖️ Legal Document Intelligence Platform
 An AI-powered legal knowledge platform that automatically fetches, processes, and presents Indian legal information in plain English — built for LegalX Round 2 Assessment.
 
 ---
